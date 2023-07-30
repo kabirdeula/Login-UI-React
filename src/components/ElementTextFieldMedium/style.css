@@ -1,0 +1,55 @@
+.element-text-field-medium {
+  background-color: #f7f6fd;
+  border-radius: 12px;
+  height: 56px;
+  position: relative;
+  width: 300px;
+}
+
+.element-text-field-medium .trailing-icon {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/8aedbda75596962a401644e0d770ae79/img/eye-2.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 259px;
+  opacity: 0.78;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.element-text-field-medium .label {
+  color: var(--darkcolor);
+  font-family: "Nunito", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  opacity: 0.87;
+  position: absolute;
+  top: -20px;
+  white-space: nowrap;
+}
+
+.element-text-field-medium .data {
+  align-items: center;
+  display: inline-flex;
+  left: 20px;
+  opacity: 0.3;
+  position: absolute;
+  top: 19px;
+}
+
+.element-text-field-medium .text {
+  color: #182b3c;
+  font-family: "Nunito", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

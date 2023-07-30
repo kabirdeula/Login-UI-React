@@ -1,0 +1,176 @@
+.login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.login .text-wrapper {
+  color: #363535;
+  font-family: "Nunito", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  height: 32px;
+  left: 38px;
+  letter-spacing: 0.2px;
+  line-height: 32px;
+  position: absolute;
+  top: 183px;
+  white-space: nowrap;
+}
+
+.login .log-in-to-your {
+  color: #363535;
+  font-family: "Nunito", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 40px;
+  left: 38px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  opacity: 0.78;
+  position: absolute;
+  top: 223px;
+  width: 300px;
+}
+
+.login .text-wrapper-2 {
+  color: #4037b0;
+  font-family: "Nunito", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 20px;
+  left: 115px;
+  letter-spacing: 0.4px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 541px;
+  white-space: nowrap;
+}
+
+.login .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 35px;
+  position: absolute;
+  top: 726px;
+}
+
+.login .p {
+  color: #363535;
+  font-family: "Nunito", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.login .text-wrapper-3 {
+  color: #4037b0;
+  font-family: "Nunito", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.login .button-primary-instance {
+  left: 38px !important;
+  position: absolute !important;
+  top: 466px !important;
+}
+
+.login .overlap-group-wrapper {
+  background-color: #f7f6fd;
+  border-radius: 12px;
+  height: 56px;
+  left: 38px;
+  position: absolute;
+  top: 306px;
+  width: 300px;
+}
+
+.login .overlap-group {
+  height: 24px;
+  left: 20px;
+  position: relative;
+  top: 16px;
+  width: 275px;
+}
+
+.login .img {
+  height: 24px;
+  left: 239px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.login .data-2 {
+  align-items: center;
+  display: flex;
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  top: 3px;
+  width: 275px;
+}
+
+.login .text-2 {
+  color: #182b3c;
+  font-family: "Nunito", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.login .one-text-field-medium-passwrod {
+  left: 38px !important;
+  position: absolute !important;
+  top: 386px !important;
+}
+
+.login .UI-status-bars-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.login .design-component-instance-node {
+  color: #555555 !important;
+}
+
+.login .UI-home-indicator-instance {
+  background-color: #ffffff !important;
+  left: 0 !important;
+  position: fixed !important;
+  top: 778px !important;
+}
+
+.login .UI-home-indicator-2 {
+  background-color: #dddddd !important;
+}

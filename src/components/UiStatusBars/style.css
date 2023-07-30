@@ -1,0 +1,53 @@
+.UI-status-bars {
+  height: 44px;
+  position: relative;
+  width: 375px;
+}
+
+.UI-status-bars .battery {
+  height: 11px;
+  left: 336px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.UI-status-bars .wifi {
+  height: 11px;
+  left: 316px;
+  position: absolute;
+  top: 17px;
+  width: 15px;
+}
+
+.UI-status-bars .mobile-signal {
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.UI-status-bars .time-style {
+  height: 21px;
+  left: 21px;
+  position: absolute;
+  top: 12px;
+  width: 54px;
+}
+
+.UI-status-bars .element {
+  color: #ffffff;
+  font-family: "Assistant", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  height: 18px;
+  left: 0;
+  letter-spacing: -0.3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 54px;
+}

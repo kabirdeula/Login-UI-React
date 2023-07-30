@@ -1,0 +1,16 @@
+.UI-home-indicator {
+  height: 34px;
+  width: 375px;
+}
+
+.UI-home-indicator .home-indicator {
+  background-color: #ffffff;
+  border: 0px none;
+  border-radius: 100px;
+  height: 7px;
+  left: 120px;
+  opacity: 0.5;
+  position: relative;
+  top: 20px;
+  width: 136px;
+}
